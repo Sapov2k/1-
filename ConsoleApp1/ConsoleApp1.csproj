@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\ds_20\Desktop\1 task.cs" Link="1 task.cs" />
+    <Compile Include="C:\Users\ds_20\Desktop\1.cs" Link="1.cs" />
+  </ItemGroup>
+
+</Project>
